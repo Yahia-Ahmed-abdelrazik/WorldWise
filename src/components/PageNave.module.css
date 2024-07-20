@@ -1,0 +1,9 @@
+.nav {
+    background: #000;
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
